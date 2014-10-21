@@ -454,12 +454,12 @@ header.top-head {
 	background: transparent !important;
 }
 header.top-head .logo{
-	margin-top: 25px;
+	margin-top: 4px;
 }
 header.top-head .logo a {
 	display: table;
 	min-width: 207px;
-	height: 47px;
+	height: 90px;
 }
 /* ---- 3.3 Main menu ------------------ */
 .top-menu {
