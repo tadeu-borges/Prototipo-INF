@@ -100,7 +100,7 @@ header.top-head .logo a, .foot-logo {
 	border-left: 15px solid #81c2ea;
 }
 .continue-btn .btn.right:hover:after {
-	border-left: 15px solid #005CA1;
+	border-left: 15px solid #c13715;
 }
 .continue-btn .btn.left:after {
 	border-right: 15px solid #777;
@@ -112,10 +112,10 @@ header.top-head .logo a, .foot-logo {
 	color: #fff;
 }
 .top-nav li li {
-	border-bottom: 1px #4081a9 solid;
+	border-bottom: 1px #d03d17 solid;
 }
 .top-nav li li a:hover, .top-nav li li.selected > a, .top-nav li li.current > a, .responsive-nav ul li a:hover, .nav-2 .top-nav > ul > li:hover:after, .nav-2 .top-nav > ul > li.current:after {
-	background: #005CA1 !important;
+	background: #c13715 !important;
 	color: #fff;
 }
 .btn:hover{
@@ -123,7 +123,7 @@ header.top-head .logo a, .foot-logo {
 	color:#fff
 }
 .btn.main-bg:hover, .team-box .team-socials li a {
-	background-color: #005CA1 !important;
+	background-color: #c13715 !important;
 	color: #fff;
 }
 .btn.main-border:hover {
