@@ -262,7 +262,7 @@
 							</li>
 							<li data-transition="fade" data-slotamount="7">
 								<img alt="" src="images/slider/dummy.png" data-lazyload="images/slider/slider-1/INF_BG.png" data-bgposition="left center" data-kenburns="on" data-duration="14000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="130" data-bgpositionend="right center">
-								<div class="caption lfl" data-y="45" data-x="150" data-speed="600" data-start="1000"><img alt="" src="images/slider/slider-1/logo.png"></div>
+								<div class="caption lfl" data-y="15" data-x="120" data-speed="600" data-start="1000"><img alt="" src="images/slider/slider-1/logo.png"></div>
 								<div class="caption lfr large-title tp-resizeme main-color" data-x="right" data-y="58" data-speed="600" data-start="1600">Instituto</div>
 								<div class="caption lfr large-title tp-resizeme main-color" data-x="right" data-y="119" data-speed="600" data-start="1800">de Informática</div>
 								<div class="caption lfr large-title tp-resizeme main-color" data-x="right" data-y="180" data-speed="600" data-start="2000">UFG</div>
