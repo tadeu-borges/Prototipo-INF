@@ -442,9 +442,11 @@ th, td, caption {
 }
 /* ---- 3.2 Top logo --------------------- */
 header.top-head {
-	position: relative;
+	position: fixed;
 	z-index: 5555;
 	min-height: 92px;
+	width: 100%;
+	background-color: #FFF;
 }
 .fixedHead {
 	position: fixed !important;
