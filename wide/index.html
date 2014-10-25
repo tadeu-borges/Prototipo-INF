@@ -925,5 +925,44 @@ Nesta palestra você não verá nada de teoria, veremos os códigos que mais fiz
 		
 		<!-- general script file -->
 		<script type="text/javascript" src="js/script.js"></script>
+
+		<script>
+			$(document).scroll(function () {
+			    var y = $(this).scrollTop();
+			    
+			    if (y > 14) {
+			    	$("header.top-head .logo a").animate({
+					  height: 60
+					  }, 10, function() {
+					});
+
+			    	$(".top-nav > ul > li > a").animate({
+					  height: 85
+					  }, 10, function() {
+					});
+
+					$(".top-nav > ul > li").animate({
+					  height: 85
+					  }, 10, function() {
+					});
+			    } else {
+			    	$("header.top-head .logo a").animate({
+					  height: 90
+					  }, 10, function() {
+					});
+
+					$(".top-nav > ul > li > a").animate({
+					  height: 99
+					  }, 10, function() {
+					});
+
+					$(".top-nav > ul > li").animate({
+					  height: 99
+					  }, 10, function() {
+					});
+			    }
+			});
+		</script>
+
 	</body>
 </html>
