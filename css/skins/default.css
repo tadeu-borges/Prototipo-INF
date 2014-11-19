@@ -88,7 +88,7 @@ header.top-head .logo a, .foot-logo {
 	border-color: #81c2ea;
 }
 .post-image a .mask {
-	background: rgba(232,82,74,0.5);
+	background: rgba(129, 194, 234, 0.5);
 }
 .pricing-table.selected,.cart-popup {
 	border-color: #81c2ea;
@@ -141,7 +141,7 @@ header.top-head .logo a, .foot-logo {
 	border: 1px #81c2ea solid;
 }
 .img-over a.link, .block-bg-1:before, .block-bg-2:before, .block-bg-3:before, .block-bg-4:before, .block-bg-5:before {
-	background-color: rgba(232,82,47,0.7);
+	background-color: rgba(129, 194, 234, 0.7);
 }
 .img-over a.zoom {
 	background-color: rgba(119,119,119,0.7);
@@ -151,4 +151,8 @@ header.top-head .logo a, .foot-logo {
 }
 a.main-color:hover,.project-name:hover,.box-top .more-btn:hover{
 	color:#333 !important
+}
+
+.page-title.title-1 {
+	margin-top: 75px;
 }
